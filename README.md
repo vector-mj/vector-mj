@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mj.hosseini.dev@gmail.com
 - 📄 You can see my resume in this link : https://vector-mj.github.io/Resume/
-![](https://hit.yhype.me/github/profile?user_id=74991694)
 <!---
 vector-mj/vector-mj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
