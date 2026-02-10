@@ -15,7 +15,7 @@
 | **Languages** | Python, Javascript/Ts, Bash, Rust |
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohammad-javad-hoseini-845007195))
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-javad-hoseini-845007195)
 - 🐦 [Mail](mj.hosseini.dev@gmail.com)
 
 *"If a human operator needs to touch a system during normal operations, the system has a bug." — The SRE Philosophy*
