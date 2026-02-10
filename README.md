@@ -1,12 +1,21 @@
-![11](https://user-images.githubusercontent.com/74991694/120069210-ee91e480-c099-11eb-8167-2f644cd48aa6.jpg)
+![12](https://nevkontakte.com/2020/wtf-is-sre/devops.jpg)
 
-- 👋 Hi, I’m Mohammad Javad
-- 👀 I’m interested in studying and implementing networking
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : mj.hosseini.dev@gmail.com
-- 📄 You can see my resume in this link : https://vector-mj.github.io/Resume/
-<!---
-vector-mj/vector-mj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Site Reliability Engineer | Infrastructure & Network Enthusiast**
+
+### 🛠 Tech Stack & Tools
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud** | AWS, Hetzner, Azure |
+| **Orchestration** | Kubernetes, K3s, Docker swarm |
+| **IaC** | Ansible, Terraform, Pulumi |
+| **CI/CD** | GitHub Actions, GitLab CI, ArgoCD |
+| **Observability** | Prometheus, Grafana, ELK Stack |
+| **Databases** | MongoDB, Redis, ETCD, Clickhouse, PostgreSQL, Cockroach, Memgraph/Neo4j, Ignite  |
+| **Languages** | Python, Javascript/Ts, Bash, Rust |
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐦 [Mail](mj.hosseini.dev@gmail.com)
+
+*"If a human operator needs to touch a system during normal operations, the system has a bug." — The SRE Philosophy*
